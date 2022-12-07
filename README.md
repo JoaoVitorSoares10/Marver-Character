@@ -1,9 +1,7 @@
-# Marvel Characters
-
-## Project Description
-
-Have you ever wanted to know more about the characters in the Marvel universe? Marvel Character App can help you! The app allows you to search for the name of your favorite character from the marvel universe and get more information about them. Character data is available on the API <a href="https://developer.marvel.com/">Marvel Developer Portal</a>
-
+<div align="center">
+ <h1>Marvel Characters</h1>
+ <h2>Project Description</h2>
+ <p>Have you ever wanted to know more about the characters in the Marvel universe? Marvel Character App can help you! The app allows you to search for the name of your favorite character from the marvel universe and get more information about them. Character data is available on the API <a href="https://developer.marvel.com/">Marvel Developer Portal</a></p>
 <p>
  <a href="#Features">Features</a> •
  <a href="#Requirements">Requirements</a> • 
@@ -11,10 +9,13 @@ Have you ever wanted to know more about the characters in the Marvel universe? M
  <a href="#Technologies">Technologies</a> • 
  <a href="#Author">Author</a>
 </p>
+ <br>
+ <img src="./src/assets/gifs/marvelCharacter.gif" title="Marvel Character Gif" alt="Marvel Character Gif"/>
+</div>
 
 ### Features
 
-- [x] Get information on Marvel weights
+- [x] Get information about the characters in the Marvel universe
 
 ### Requirements
 
